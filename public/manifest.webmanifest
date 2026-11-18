@@ -1,0 +1,14 @@
+{
+  "name": "Habit Pixel",
+  "short_name": "Habit Pixel",
+  "description": "Suivi d’habitudes en pixel art : chaque journée complète fait grandir ton monde.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
